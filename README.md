@@ -18,5 +18,5 @@ Download the lastest release from [Releases](https://github.com/Azurshi/MiscApp/
 2. Run `app.exe` inside the folder.
 
 ### From Source
-Packed with [PyInstaller](https://pyinstaller.org/en/stable/)
+Packed with [PyInstaller](https://pyinstaller.org/en/stable/).
 I use Python 3.12+.
