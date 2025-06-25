@@ -20,3 +20,6 @@ Download the lastest release from [Releases](https://github.com/Azurshi/MiscApp/
 ### From Source
 Packed with [PyInstaller](https://pyinstaller.org/en/stable/).
 I use Python 3.12+.
+
+## Contributing
+This project is closed to outside contributions.
