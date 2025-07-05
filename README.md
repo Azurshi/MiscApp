@@ -12,7 +12,7 @@ A simple Python desktop application build with [PySide6](https://pypi.org/projec
 ## Installation
 
 ### Windows
-Download the lastest release from [Releases](https://github.com/Azurshi/BrightnessApp/releases/tag/Release)
+Download the lastest release from [Releases](https://github.com/Azurshi/BrightnessApp/releases)
 
 1. Extract the `.zip` archive.
 2. Run `app.exe` inside the folder or main.exe when using packed version.
