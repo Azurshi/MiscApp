@@ -1,21 +1,21 @@
-# Misc App
-A simple Python desktop application build with [PySide6](https://pypi.org/project/PySide6/) to change screen bightness and map key to another.
+# Brightness App
+A simple Python desktop application build with [PySide6](https://pypi.org/project/PySide6/) to change screen bightness.
 
 ## Features
-- Change screen "brightness" using color ramp instead of display brightness.
-- Map key to different key.
-- Lightweight and easy to use
-- Currently only tested on Windows
-
-## Screenshots
+- Change brightness with different approaches:
+  + Hardware Display Brightness (recommended)
+  + Color Brightness (recommend, may reset on restart)
+  + Application Overlay Brightness (not recommend)
+- Lightweight and easy to use, minimize to system tray
+- Currently only tested on my Windows laptop with single display
 
 ## Installation
 
 ### Windows
-Download the lastest release from [Releases](https://github.com/Azurshi/MiscApp/releases/tag/Release)
+Download the lastest release from [Releases](https://github.com/Azurshi/BrightnessApp/releases/tag/Release)
 
 1. Extract the `.zip` archive.
-2. Run `app.exe` inside the folder.
+2. Run `app.exe` inside the folder or main.exe when using packed version.
 
 ### From Source
 Packed with [PyInstaller](https://pyinstaller.org/en/stable/).
