@@ -4,6 +4,7 @@
 __old/*
 dist/
 build/
+data.json
 
 
 # Byte-compiled / optimized / DLL files
