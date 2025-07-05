@@ -3,6 +3,7 @@
 .vscode
 __old/*
 dist/
+
 build/
 data.json
 
